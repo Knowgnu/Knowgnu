@@ -17,7 +17,7 @@ import com.icia.movie.dto.BOARD;
 import com.icia.movie.service.BService;
 
 @Controller
-public class BController {
+public class BController {  
 
 	@Autowired
 	private BService bsvc;
